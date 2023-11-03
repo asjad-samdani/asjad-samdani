@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asjad Samdani</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asjad-samdani&label=Profile%20views&color=0e75b6&style=flat" alt="asjad-samdani" /> </p>
-
 - 🌱 I’m currently learning **Data Structure And Algorithm in java**
 
 - 📫 How to reach me **samdaniasjad143f@gmail.com**
