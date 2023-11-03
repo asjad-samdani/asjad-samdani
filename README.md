@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Asjad Samdani</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <!-- (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...") -->
