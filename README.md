@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asjad Samdani</h1>
 <h3 align="center">A passionate Software developer from India</h3><br>
 
-- 🌱 I’m currently learning **Data Structure And Algorithm in java**
+- 🌱 I’m currently learning **Data Structure And Algorithm in java**, MERN,Spring Framework
 
 - 📫 How to reach me **samdaniasjad143f@gmail.com**
 
