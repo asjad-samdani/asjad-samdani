@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Asjad Samdani</h1>
-# <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-   A passionate Software developer from India
-- 🌱 I’m currently learning Data Structure And Algorithm in java
+<h3 align="center">A passionate Software developer from India</h3>
+
+- 🌱 I’m currently learning **Data Structure And Algorithm in java**
+
 - 📫 How to reach me **samdaniasjad143f@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
