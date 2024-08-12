@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asjad Samdani</h1>
 <h3 align="center">A passionate Software developer from India</h3><br>
 
-- 🌱 I’m currently learning **DSA In Java**, MERN,Spring Framework
+- 🌱 I’m currently learning **React.js**,Spring Boot
 
 - 📫 How to reach me **samdaniasjad143f@gmail.com**
 
